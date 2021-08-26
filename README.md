@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mousaabdi
+- 👋 Hi, I’m Seper Abdi
 - 👀 I’m interested in Computer Science and AI Program 
 - 🌱 I’m currently learning Master of computer science at Chapman University in CA
 - 💞️ I’m looking to collaborate on Reaserches 
